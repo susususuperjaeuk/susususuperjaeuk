@@ -9,4 +9,3 @@ Things l code with
 ![C image](https://img.shields.io/badge/C-blue)
 ![Java image](https://img.shields.io/badge/Java-pink)
 ![Python image](https://img.shields.io/badge/Python-green)
-![Html image](https://www.naver.com)
